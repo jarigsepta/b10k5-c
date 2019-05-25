@@ -19,3 +19,4 @@ for (
 }
 
 print_r($array);
+?>
