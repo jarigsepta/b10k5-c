@@ -7,6 +7,7 @@ REST API adalah Gaya arsitektural perangkat lunak yang didalamnya mendefinisikan
 # Kegunaan JSON pada REST API
 Sebuah file format standart yang menggunakan tulisan yang dapat dibaca oleh manusia untuk pertukaran data client dan server yang di dalamnya berisi pasangan antara key dan value.
 
+# Cara menggunakan
 Untuk menjalankan script javascript (.js) dapat menggunakan https://es6console.com/,
 Sedangkan untuk menjalankan (.php) dapat menggunakan http://phpfiddle.org/
 
