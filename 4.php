@@ -18,3 +18,4 @@ function cetak_gambar($width)
     return $result;
 }
 echo cetak_gambar(5);
+?>
